@@ -1,0 +1,1879 @@
+1
+00:00:01,680 --> 00:00:05,284
+<i>Era uma linda manhã
+no leste do Texas.</i>
+
+2
+00:00:08,792 --> 00:00:11,305
+<i>O tipo de manhã que faz
+você querer levantar-se,</i>
+
+3
+00:00:11,315 --> 00:00:14,500
+<i>vestir-se e testar a aceleração</i>
+
+4
+00:00:14,510 --> 00:00:16,248
+<i>que devido à gravidade,
+não depende</i>
+
+5
+00:00:16,282 --> 00:00:17,855
+<i>do movimento de um objeto.</i>
+
+6
+00:00:19,517 --> 00:00:20,829
+Amo os sábados.
+
+7
+00:00:20,839 --> 00:00:25,006
+<i>A Terra causa a mesma
+aceleração gravitacional de tudo</i>
+
+8
+00:00:25,018 --> 00:00:27,967
+<i>até mesmo um boneco e uma bola
+de pingue-pongue voadora.</i>
+
+9
+00:00:27,977 --> 00:00:29,907
+<i>Não é todo dia
+que um homem de ciência</i>
+
+10
+00:00:29,917 --> 00:00:33,190
+<i>pode dizer com sinceridade
+"Yippee ki-yay", mas...</i>
+
+11
+00:00:34,206 --> 00:00:35,700
+Yippee ki-yay.
+
+12
+00:00:39,909 --> 00:00:41,214
+Bom dia, Herschel.
+
+13
+00:00:41,240 --> 00:00:43,330
+Oi, George.
+Você não viu um cachorro
+
+14
+00:00:43,363 --> 00:00:44,987
+vagando por aqui, viu?
+
+15
+00:00:45,010 --> 00:00:46,728
+Não.
+Arrumou um cachorro?
+
+16
+00:00:46,747 --> 00:00:49,227
+Mais ou menos. Ficamos com ele
+quando meu cunhado
+
+17
+00:00:49,243 --> 00:00:51,401
+teve que se mudar
+pra um condomínio fechado.
+
+18
+00:00:51,434 --> 00:00:54,327
+Que legal, e lá é proibido
+levar animais de estimação?
+
+19
+00:00:54,337 --> 00:00:56,610
+- Ele está na prisão, George.
+- Certo, claro.
+
+20
+00:00:56,899 --> 00:00:58,965
+<i>Em física, nada te faz
+se sentir melhor</i>
+
+21
+00:00:58,975 --> 00:01:00,735
+<i>do que prever um resultado.</i>
+
+22
+00:01:00,745 --> 00:01:02,477
+<i>Eu amo previsibilidade.</i>
+
+23
+00:01:02,487 --> 00:01:04,730
+<i>A força da gravidade:
+previsível.</i>
+
+24
+00:01:04,740 --> 00:01:07,133
+<i>Fusão nuclear:
+previsível.</i>
+
+25
+00:01:07,143 --> 00:01:09,469
+<i>Meu irmão fazendo xixi
+no chuveiro:</i>
+
+26
+00:01:09,479 --> 00:01:11,640
+<i>repulsivo, mas previsível.</i>
+
+27
+00:01:12,103 --> 00:01:13,531
+<i>O que não é previsível:</i>
+
+28
+00:01:13,932 --> 00:01:15,236
+<i>cachorros.</i>
+
+29
+00:01:15,592 --> 00:01:17,930
+<i>Sempre tive pavor de cachorros.</i>
+
+30
+00:01:17,940 --> 00:01:21,526
+<i>Para mim, são apenas pontos de
+interrogação grandes e peludos.</i>
+
+31
+00:01:21,536 --> 00:01:23,944
+<i>Pontos de interrogação
+com dentes.</i>
+
+32
+00:01:29,807 --> 00:01:31,760
+<i>Em situações de pânico,</i>
+
+33
+00:01:31,771 --> 00:01:33,786
+<i>eu costumava
+perder a consciência.</i>
+
+34
+00:01:35,044 --> 00:01:37,773
+<i>Desta vez, só perdi minha voz.</i>
+
+35
+00:01:38,078 --> 00:01:40,359
+Socorro.
+Por favor, ajudem.
+
+36
+00:01:41,755 --> 00:01:44,255
+Tec Subs e Li4rs, apresentam:
+Young Sheldon - 01x20
+
+37
+00:01:44,265 --> 00:01:46,265
+A Dog, a Squirrel,
+and a Fish Named Fish
+
+38
+00:01:46,275 --> 00:01:48,275
+Bazingudinhos:
+Cancer Man ~ Tulio ~ Red Beard
+
+39
+00:01:48,285 --> 00:01:50,285
+Bazingudinhos:
+Bruno Loko ~ LikaPoetisa ~ Crash
+
+40
+00:01:50,295 --> 00:01:52,295
+Sheldinho:
+Red Beard
+
+41
+00:01:52,305 --> 00:01:54,305
+Venha Smurfar, ops...
+bazingar conosco!
+
+42
+00:01:54,315 --> 00:01:56,315
+equipeli4rs@live.com
+facebook.com/Li4rs
+
+43
+00:01:56,325 --> 00:01:58,335
+tec.subs@gmail.com
+facebook.com/Tec.Subs
+
+44
+00:01:59,130 --> 00:02:03,330
+<i>Estava só admirando
+a bengala do vovô Smurf.</i>
+
+45
+00:02:03,340 --> 00:02:04,965
+<i>Smurf-a-loo-loo.</i>
+
+46
+00:02:04,975 --> 00:02:06,386
+<i>Essa não é a minha bengala.</i>
+
+47
+00:02:06,397 --> 00:02:08,735
+O almoço está pronto.
+Pode chamar seu irmão?
+
+48
+00:02:08,745 --> 00:02:10,270
+Estou assistindo TV.
+
+49
+00:02:10,280 --> 00:02:11,671
+Vai logo.
+
+50
+00:02:11,681 --> 00:02:15,275
+Tenho que smurfar
+tudo por aqui.
+
+51
+00:02:15,285 --> 00:02:16,843
+Eu ouvi isso.
+
+52
+00:02:16,853 --> 00:02:18,393
+Eu disse "smurfar".
+
+53
+00:02:18,403 --> 00:02:20,288
+E ouvi como disse isso.
+
+54
+00:02:21,825 --> 00:02:24,151
+Ela pode cortar
+suas próprias cascas.
+
+55
+00:02:24,161 --> 00:02:26,019
+Sheldon?
+
+56
+00:02:26,029 --> 00:02:28,421
+Quem é você?
+
+57
+00:02:28,431 --> 00:02:30,209
+Você é tão fofo.
+
+58
+00:02:30,626 --> 00:02:32,626
+Tenha cuidado.
+
+59
+00:02:32,769 --> 00:02:34,499
+O que está fazendo aí em cima?
+
+60
+00:02:34,509 --> 00:02:36,296
+Permanecendo vivo.
+
+61
+00:02:36,306 --> 00:02:37,713
+De quem é este cão?
+
+62
+00:02:37,723 --> 00:02:39,633
+Eu não sei.
+Chame socorro.
+
+63
+00:02:39,643 --> 00:02:41,201
+Como ele entrou na garagem?
+
+64
+00:02:41,211 --> 00:02:43,144
+Por favor, chame socorro.
+
+65
+00:02:43,155 --> 00:02:44,624
+Talvez possamos
+ficar com ele.
+
+66
+00:02:44,639 --> 00:02:46,803
+Estou te implorando,
+chame socorro agora.
+
+67
+00:02:47,444 --> 00:02:49,355
+Primeiro, tenho que
+te dizer uma coisa.
+
+68
+00:02:49,366 --> 00:02:50,677
+O que?
+
+69
+00:02:50,687 --> 00:02:52,587
+Almoço está pronto.
+
+70
+00:02:56,793 --> 00:02:58,552
+Olha só isso?
+
+71
+00:02:58,562 --> 00:03:00,393
+Que tipo de cachorro
+mastiga madeira?
+
+72
+00:03:00,404 --> 00:03:01,855
+Estão dando comida
+a ele, né?
+
+73
+00:03:01,865 --> 00:03:04,674
+Talvez esteja com dentes novos.
+Quando Billy era pequeno,
+
+74
+00:03:04,685 --> 00:03:06,135
+ele mastigou
+seu cercadinho.
+
+75
+00:03:06,146 --> 00:03:08,357
+- É sério?
+- E só tinha três dentes.
+
+76
+00:03:08,630 --> 00:03:10,310
+Virou uma baba.
+
+77
+00:03:10,575 --> 00:03:12,499
+Como vocês querem
+consertar isso?
+
+78
+00:03:12,509 --> 00:03:13,867
+Acho que vou arrumar
+
+79
+00:03:13,877 --> 00:03:15,749
+passando um arame
+até o fundo.
+
+80
+00:03:15,759 --> 00:03:17,685
+Dessa forma,
+ele não mastiga de novo.
+
+81
+00:03:18,802 --> 00:03:20,185
+Olá.
+
+82
+00:03:20,517 --> 00:03:22,075
+- Oi.
+- Billy.
+
+83
+00:03:22,310 --> 00:03:24,862
+Essa janela na cerca
+sempre esteve aqui?
+
+84
+00:03:26,501 --> 00:03:29,357
+Não, filho, essa é
+uma janela nova na cerca.
+
+85
+00:03:30,642 --> 00:03:32,961
+Vocês também estão
+ficando tontos?
+
+86
+00:03:45,213 --> 00:03:47,202
+Por que não pediu ajuda?
+
+87
+00:03:47,212 --> 00:03:50,036
+Eu tentei,
+mas não saiu nenhum som.
+
+88
+00:03:50,046 --> 00:03:51,571
+Pobrezinho.
+
+89
+00:03:51,581 --> 00:03:53,116
+Estava muito sujo lá em cima.
+
+90
+00:03:53,126 --> 00:03:55,642
+A limpeza da garagem
+é tarefa sua ou do papai?
+
+91
+00:03:55,652 --> 00:03:58,304
+Não se preocupe com isso.
+Tome um pouco de chá.
+
+92
+00:03:58,314 --> 00:03:59,879
+- Camomila?
+- Sim.
+
+93
+00:03:59,889 --> 00:04:01,991
+- Uma colher de chá de mel?
+- Sim.
+
+94
+00:04:02,001 --> 00:04:05,046
+- Um cubo de gelo para esfriar?
+- Coloquei dois, hoje.
+
+95
+00:04:05,056 --> 00:04:06,759
+Você já sofreu bastante.
+
+96
+00:04:11,478 --> 00:04:13,026
+Eu prefiro um cubo de gelo.
+
+97
+00:04:13,036 --> 00:04:14,569
+Beba.
+
+98
+00:04:17,282 --> 00:04:19,173
+É bom quando as crianças
+estão na cama
+
+99
+00:04:19,196 --> 00:04:20,899
+e podemos sentar e relaxar.
+
+100
+00:04:22,245 --> 00:04:24,298
+Eu nem vou responder isso.
+
+101
+00:04:25,774 --> 00:04:27,741
+Finalmente ele conseguiu dormir.
+
+102
+00:04:27,751 --> 00:04:29,556
+Ele ainda está muito abalado.
+
+103
+00:04:29,806 --> 00:04:32,512
+Talvez este vira-lata
+no vizinho seja uma coisa boa.
+
+104
+00:04:32,522 --> 00:04:34,630
+Shelly pode acabar
+se acostumando com isso.
+
+105
+00:04:34,641 --> 00:04:37,054
+É verdade. Lembra
+quando ele ficou assustado
+
+106
+00:04:37,064 --> 00:04:38,827
+pela fruta no fundo do iogurte?
+
+107
+00:04:38,837 --> 00:04:40,421
+Agora ele come sem problemas.
+
+108
+00:04:40,431 --> 00:04:42,161
+Ele ainda me obriga a bater.
+
+109
+00:04:42,171 --> 00:04:45,124
+Talvez possa começar com um
+filhote pequeno e ir crescendo.
+
+110
+00:04:45,134 --> 00:04:46,446
+Como uma tartaruga.
+
+111
+00:04:46,470 --> 00:04:48,032
+Ele diz que carregam salmonela.
+
+112
+00:04:48,048 --> 00:04:49,357
+Um porquinho da índia?
+
+113
+00:04:49,368 --> 00:04:51,087
+Parece que eles
+causaram a peste.
+
+114
+00:04:51,134 --> 00:04:53,566
+- Que tal um pássaro?
+- Essa eu sei.
+
+115
+00:04:53,576 --> 00:04:56,048
+Vão roubar o cabelo dele
+para fazer um ninho.
+
+116
+00:05:10,520 --> 00:05:12,435
+Mãe!
+
+117
+00:05:14,064 --> 00:05:16,562
+<i>Pelo menos desta vez,
+o som saiu.</i>
+
+118
+00:05:16,866 --> 00:05:18,746
+<i>Eu chamo isso de progresso.</i>
+
+119
+00:05:30,229 --> 00:05:33,115
+- O que está acontecendo?
+- Seu cão entrou na nossa casa.
+
+120
+00:05:33,125 --> 00:05:36,115
+- Como ele entrou lá?
+- Ele entrou pela tela.
+
+121
+00:05:36,125 --> 00:05:38,025
+Acha que ele mordeu
+a cerca de novo?
+
+122
+00:05:38,035 --> 00:05:40,313
+Só sei que o Sheldon
+estava gritando com o cão
+
+123
+00:05:40,323 --> 00:05:41,917
+e a Mary estava
+gritando comigo.
+
+124
+00:05:41,927 --> 00:05:43,701
+Agora estou te vendo
+de cueca.
+
+125
+00:05:43,711 --> 00:05:45,839
+Caramba, Herschel,
+o que está havendo?
+
+126
+00:05:47,205 --> 00:05:48,539
+- Oi, George.
+- Oi, Brenda.
+
+127
+00:05:48,549 --> 00:05:51,021
+- Bucky entrou na casa deles.
+- Que engraçado.
+
+128
+00:05:51,031 --> 00:05:53,720
+Pode ser engraçado algum dia,
+não é agora.
+
+129
+00:05:54,198 --> 00:05:57,269
+Desculpe, George. Vou prendê-lo
+para não se repetir.
+
+130
+00:05:57,667 --> 00:05:59,850
+- Tenham uma boa noite.
+- George!
+
+131
+00:06:00,022 --> 00:06:01,988
+Não vai acreditar nisso.
+Olhe!
+
+132
+00:06:01,998 --> 00:06:04,957
+O cachorro deles deixou
+um esquilo morto na nossa sala.
+
+133
+00:06:05,436 --> 00:06:08,970
+Metade dele é cão de caça.
+É sinal que ele gosta de vocês.
+
+134
+00:06:08,980 --> 00:06:10,801
+Não ligo para o que ele gosta.
+
+135
+00:06:10,811 --> 00:06:14,059
+Mantenha seu cão e os roedores
+fora da minha casa.
+
+136
+00:06:14,069 --> 00:06:16,247
+Espera, como sabemos
+se foi o Bucky
+
+137
+00:06:16,257 --> 00:06:17,896
+que deixou esse esquilo lá?
+
+138
+00:06:17,906 --> 00:06:19,766
+Talvez o esquilo
+já estivesse lá.
+
+139
+00:06:20,078 --> 00:06:23,379
+Por que mais eu teria
+um esquilo morto na minha sala?
+
+140
+00:06:23,389 --> 00:06:25,318
+Não sei que tipo de casa
+você tem.
+
+141
+00:06:26,441 --> 00:06:28,863
+Minha casa é imaculada.
+George, fale para eles.
+
+142
+00:06:29,387 --> 00:06:30,958
+Ela mantém a casa em dia.
+
+143
+00:06:31,336 --> 00:06:33,705
+Querida, é uma boa chance
+de ser o Bucky.
+
+144
+00:06:33,715 --> 00:06:35,833
+- Está do lado de quem?
+- Do seu, sempre.
+
+145
+00:06:35,843 --> 00:06:37,751
+Todos estão nervosos.
+Está tarde.
+
+146
+00:06:37,761 --> 00:06:39,503
+Vamos encerrar isso?
+
+147
+00:06:39,513 --> 00:06:41,109
+Essa é uma boa ideia.
+
+148
+00:06:41,119 --> 00:06:42,898
+Mantenha seu cão
+longe do meu filho.
+
+149
+00:06:42,908 --> 00:06:44,887
+- Lá vai você de novo.
+- Desculpe,
+
+150
+00:06:44,897 --> 00:06:46,288
+o cão deles entrou em casa.
+
+151
+00:06:46,298 --> 00:06:48,430
+Deve ter aprendido
+com seu irmão.
+
+152
+00:06:48,440 --> 00:06:49,742
+Como se atreve.
+
+153
+00:06:49,752 --> 00:06:52,076
+Esse foi um bom argumento.
+
+154
+00:06:52,086 --> 00:06:54,534
+Com sabemos se seu filho
+não ludibriou o Bucky
+
+155
+00:06:54,544 --> 00:06:57,244
+para fazer algum experimento
+louco de ciências com ele?
+
+156
+00:06:57,254 --> 00:07:00,274
+Meu filho estava dormindo,
+e você tem coragem...
+
+157
+00:07:03,927 --> 00:07:06,069
+<i>- Boa noite, George!</i>
+- Boa noite!
+
+158
+00:07:10,965 --> 00:07:14,034
+Não entendo por que o cão
+estava interessado no Sheldon.
+
+159
+00:07:14,044 --> 00:07:16,479
+Talvez Bucky goste
+do cheiro do Sheldon.
+
+160
+00:07:16,665 --> 00:07:19,883
+Seu irmão toma banho 3 vezes
+por dia, ele não tem cheiro.
+
+161
+00:07:19,893 --> 00:07:23,527
+- Aqui, controle de animais.
+- Não.
+
+162
+00:07:23,537 --> 00:07:25,747
+Você não quer chamar
+o controle de animais.
+
+163
+00:07:25,757 --> 00:07:27,465
+- Por que não?
+- Porque...
+
+164
+00:07:27,475 --> 00:07:30,233
+você é vizinha
+dessas pessoas.
+
+165
+00:07:30,243 --> 00:07:34,272
+Eles chamaram a polícia
+quando George tocou música alta.
+
+166
+00:07:34,813 --> 00:07:37,270
+Talvez foram eles,
+talvez fui eu.
+
+167
+00:07:37,348 --> 00:07:39,750
+Mas o fato é que,
+você não pode jogar
+
+168
+00:07:39,760 --> 00:07:41,213
+gasolina no fogo.
+
+169
+00:07:41,223 --> 00:07:44,423
+Eles começaram o fogo
+e agora vão se queimar.
+
+170
+00:07:44,626 --> 00:07:46,780
+Acho que você
+tomou muito café.
+
+171
+00:07:47,700 --> 00:07:49,767
+Por que não deixa
+que eu falo com Brenda,
+
+172
+00:07:49,777 --> 00:07:51,168
+para acalmar as coisas?
+
+173
+00:07:51,178 --> 00:07:52,728
+Por que acha
+que ela te ouviria?
+
+174
+00:07:52,738 --> 00:07:55,196
+Porque as pessoas gostam
+mais de mim que de você.
+
+175
+00:07:55,703 --> 00:07:57,105
+As pessoas gostam de mim.
+
+176
+00:07:57,172 --> 00:07:59,540
+Não disse que não,
+só gostam mais de mim.
+
+177
+00:07:59,707 --> 00:08:02,000
+Enfim, eu a vejo
+o tempo todo no boliche.
+
+178
+00:08:02,010 --> 00:08:03,410
+Sei como lidar com ela.
+
+179
+00:08:04,278 --> 00:08:06,510
+- Tudo bem.
+- Obrigada.
+
+180
+00:08:11,493 --> 00:08:13,145
+Muitas pessoas
+gostam de mim.
+
+181
+00:08:19,300 --> 00:08:21,410
+Oi, Brenda, como vai?
+
+182
+00:08:21,629 --> 00:08:24,878
+Sua filha está um pé no saco,
+assim que estão as coisas.
+
+183
+00:08:27,135 --> 00:08:30,127
+Você é bem direta.
+Sempre gostei disso em você.
+
+184
+00:08:30,137 --> 00:08:32,006
+Connie,
+tive uma noite e tanto.
+
+185
+00:08:32,107 --> 00:08:34,780
+A não ser que tenha vindo jogar,
+não quero ouvir.
+
+186
+00:08:35,109 --> 00:08:38,828
+Por favor, deixa eu te pagar
+um drink e conversamos.
+
+187
+00:08:39,400 --> 00:08:41,609
+Estou mais do seu lado
+do que pensa.
+
+188
+00:08:41,619 --> 00:08:44,987
+- Eu duvido, mesmo assim.
+- É verdade.
+
+189
+00:08:45,519 --> 00:08:48,480
+Pensa que não sei
+que Mary pode ser um pouco...
+
+190
+00:08:48,490 --> 00:08:50,456
+Uma vadia hipócrita?
+
+191
+00:08:50,758 --> 00:08:53,242
+Eu ia dizer "desafiadora,"
+mas concordo, claro.
+
+192
+00:08:53,252 --> 00:08:54,745
+Estamos indo bem.
+
+193
+00:08:58,333 --> 00:08:59,891
+Brenda, essa é, de longe,
+
+194
+00:08:59,901 --> 00:09:02,802
+a melhor marguerita
+de boliches da cidade.
+
+195
+00:09:03,404 --> 00:09:06,213
+Quanto tempo é casada
+com o Herschel? 18, 19 anos?
+
+196
+00:09:06,223 --> 00:09:08,419
+19, mas parecem 30.
+
+197
+00:09:09,133 --> 00:09:11,877
+Bem, vocês são
+um belo casal.
+
+198
+00:09:12,613 --> 00:09:14,004
+Eu queria te agradecer
+
+199
+00:09:14,014 --> 00:09:16,739
+por ser tão boa e paciente
+com a família de minha filha
+
+200
+00:09:16,749 --> 00:09:18,182
+desde que se mudaram.
+
+201
+00:09:18,419 --> 00:09:21,215
+- Não é nada.
+- Não, preciso dizer.
+
+202
+00:09:21,268 --> 00:09:24,249
+Mary tem o duro trabalho
+de criar três crianças,
+
+203
+00:09:24,259 --> 00:09:27,847
+onde um deles é,
+de alguma forma, especial.
+
+204
+00:09:27,857 --> 00:09:29,552
+- Também acho isso.
+- É.
+
+205
+00:09:29,700 --> 00:09:32,991
+E ter uma boa vizinha
+faz toda a diferença do mundo.
+
+206
+00:09:33,001 --> 00:09:34,422
+Bem, nós tentamos.
+
+207
+00:09:34,432 --> 00:09:37,523
+E sabemos
+o quão estressante é,
+
+208
+00:09:37,533 --> 00:09:39,400
+ver como você
+também tem um filho
+
+209
+00:09:39,474 --> 00:09:42,651
+que é especial
+do jeito dele.
+
+210
+00:09:42,710 --> 00:09:44,305
+O que quer dizer?
+
+211
+00:09:44,712 --> 00:09:48,562
+Bom, sei que Billy
+é um garotinho incrível,
+
+212
+00:09:48,572 --> 00:09:51,713
+mas tenho certeza
+que você e Harschel
+
+213
+00:09:51,723 --> 00:09:53,493
+tiveram desafios.
+
+214
+00:09:53,900 --> 00:09:55,864
+Se há um garoto
+estranho na vizinhança,
+
+215
+00:09:55,874 --> 00:09:57,355
+é seu neto.
+
+216
+00:09:57,443 --> 00:10:00,752
+Espera aí, eu disse "especial",
+não "estranho".
+
+217
+00:10:00,769 --> 00:10:03,457
+Eu ouvi.
+Eu disse "estranho".
+
+218
+00:10:03,468 --> 00:10:04,847
+Sabe, Brenda,
+
+219
+00:10:04,857 --> 00:10:06,992
+não vai querer
+chamar meu neto de esquisito
+
+220
+00:10:07,002 --> 00:10:09,594
+quando acabei de te dar
+uma margarita <i>grande</i>.
+
+221
+00:10:09,604 --> 00:10:11,963
+Desculpa,
+mas não devia sugerir
+
+222
+00:10:11,973 --> 00:10:13,999
+que tem algo de errado
+com meu Billy.
+
+223
+00:10:14,009 --> 00:10:16,101
+Querida,
+não estou sugerindo.
+
+224
+00:10:16,111 --> 00:10:18,036
+Já vi o garoto
+sentar na sujeira
+
+225
+00:10:18,046 --> 00:10:20,245
+e comer sujeira do umbigo.
+
+226
+00:10:23,377 --> 00:10:26,119
+<i>Assim são as garotas
+no Texas</i>
+
+227
+00:10:28,356 --> 00:10:30,790
+Sério, mãe?
+Assim que põe panos quentes?
+
+228
+00:10:31,192 --> 00:10:33,097
+Ao menos ela levou a pior.
+
+229
+00:10:33,107 --> 00:10:34,519
+Como sabe?
+
+230
+00:10:34,529 --> 00:10:37,596
+Arranquei um tufo
+de cabelo dela.
+
+231
+00:10:38,434 --> 00:10:40,191
+Isso se cura em uma semana.
+
+232
+00:10:40,201 --> 00:10:43,317
+Ela vai usar um chapéu
+até o dia do trabalho.
+
+233
+00:10:44,443 --> 00:10:46,398
+Quero ser como você
+quando eu crescer.
+
+234
+00:10:46,408 --> 00:10:48,104
+- Não quer não.
+- Escolha outra.
+
+235
+00:10:58,720 --> 00:11:01,730
+- Com licença, senhora Hutchins?
+- Oi, Sheldon.
+
+236
+00:11:01,740 --> 00:11:04,616
+Recomenda algum livro
+sobre como superar fobias?
+
+237
+00:11:04,626 --> 00:11:07,034
+Na seção de auto-ajuda.
+
+238
+00:11:07,044 --> 00:11:09,478
+Acredite, já li todos.
+
+239
+00:11:09,881 --> 00:11:12,727
+- Alguma fobia em particular?
+- Cachorros.
+
+240
+00:11:12,737 --> 00:11:15,094
+Cinofobia, é uma boa.
+
+241
+00:11:15,104 --> 00:11:16,511
+Sabia que tem mais de
+
+242
+00:11:16,522 --> 00:11:19,289
+50 milhões de cachorros
+abandonados aqui nos EUA?
+
+243
+00:11:19,299 --> 00:11:21,331
+50 milhões é muita coisa.
+
+244
+00:11:21,341 --> 00:11:24,402
+Aqui, li esse para ajudar
+minha afefobia.
+
+245
+00:11:24,412 --> 00:11:28,481
+Medo de ser tocado,
+tenho isso também. Foi útil?
+
+246
+00:11:29,085 --> 00:11:32,024
+Quando tiver alguém
+querendo me tocar,
+
+247
+00:11:32,034 --> 00:11:33,619
+vamos descobrir.
+
+248
+00:11:36,376 --> 00:11:39,603
+<i>A premissa básica
+do livro é que fobias</i>
+
+249
+00:11:39,613 --> 00:11:42,053
+<i>seriam superadas dando
+pequenos passos</i>
+
+250
+00:11:42,063 --> 00:11:44,425
+<i>para confrontar
+a fobia em questão.</i>
+
+251
+00:11:44,435 --> 00:11:47,792
+<i>No meu caso,
+começou com assistir um programa</i>
+
+252
+00:11:47,802 --> 00:11:50,196
+<i>que todas crianças do mundo
+adoravam,</i>
+
+253
+00:11:50,206 --> 00:11:53,531
+<i>mas para mim,
+resultava em pesadelos.</i>
+
+254
+00:11:53,541 --> 00:11:55,379
+<i>Scooby Doo!</i>
+
+255
+00:11:56,577 --> 00:11:59,361
+<i>O próximo passo era
+enfrentar</i>
+
+256
+00:11:59,371 --> 00:12:01,339
+<i>os cachorros de verdade.</i>
+
+257
+00:12:01,942 --> 00:12:04,461
+<i>Embora fosse através
+de um vidro.</i>
+
+258
+00:12:04,678 --> 00:12:06,071
+Certo, é o bastante.
+
+259
+00:12:06,081 --> 00:12:07,516
+<i>E finalmente,</i>
+
+260
+00:12:07,526 --> 00:12:10,120
+<i>um encontro
+de terceiro grau,</i>
+
+261
+00:12:10,130 --> 00:12:13,990
+<i>contato físico com um membro
+da espécie canina.</i>
+
+262
+00:12:14,000 --> 00:12:17,120
+Olá, queria falar
+com o veterinário.
+
+263
+00:12:17,587 --> 00:12:19,813
+Esperava que tivesse
+um ou dois cachorros
+
+264
+00:12:19,823 --> 00:12:22,397
+sob anestesia que talvez
+eu pudesse fazer carinho.
+
+265
+00:12:22,630 --> 00:12:24,303
+Claro, vou esperar.
+
+266
+00:12:25,160 --> 00:12:26,598
+Com quem está falando?
+
+267
+00:12:26,608 --> 00:12:29,664
+- Clínica Veterinária Medford.
+- Por quê?
+
+268
+00:12:29,675 --> 00:12:31,867
+Estou tentando superar
+meu medo de cachorros
+
+269
+00:12:31,877 --> 00:12:33,769
+antes de afetar mais
+nossa família.
+
+270
+00:12:33,779 --> 00:12:37,303
+Querido, não precisa se precupar
+em como nos afeta.
+
+271
+00:12:37,313 --> 00:12:39,878
+Vózinha tomou um soco
+por minha causa.
+
+272
+00:12:39,888 --> 00:12:44,030
+Não foi sua culpa,
+e a propósito,
+
+273
+00:12:44,040 --> 00:12:46,084
+sua vózinha é socada
+o tempo todo.
+
+274
+00:12:46,094 --> 00:12:49,316
+Ainda acho que eu deveria
+fazer algo a respeito.
+
+275
+00:12:49,326 --> 00:12:51,418
+<i>- Alô?</i>
+- Sim, alô?
+
+276
+00:12:51,721 --> 00:12:53,132
+Isso é ruim.
+
+277
+00:12:53,616 --> 00:12:56,841
+Que tal um fofinho que
+possa ter morrido de velhice?
+
+278
+00:12:56,851 --> 00:12:58,263
+Já chega.
+
+279
+00:12:58,273 --> 00:12:59,673
+Desculpe.
+
+280
+00:13:06,757 --> 00:13:09,598
+Agora, como diz
+em Marcos 12:31
+
+281
+00:13:09,608 --> 00:13:11,614
+que deve
+"amar seu vizinho
+
+282
+00:13:11,624 --> 00:13:13,034
+como ama a você mesmo."
+
+283
+00:13:13,044 --> 00:13:16,012
+Alguém pode dizer
+o que isso significa? Missy?
+
+284
+00:13:16,214 --> 00:13:18,940
+Significa que tem que ser bom
+com quem mora ao lado.
+
+285
+00:13:18,950 --> 00:13:20,420
+Isso mesmo.
+
+286
+00:13:20,430 --> 00:13:21,962
+O resto
+pode ir para o inferno.
+
+287
+00:13:21,972 --> 00:13:25,021
+Certo, Missy, não usamos esse
+linguajar por aqui.
+
+288
+00:13:25,824 --> 00:13:28,063
+E se olhar bem, nesse mundo,
+
+289
+00:13:28,073 --> 00:13:31,360
+com todos recursos que temos,
+todos são nossos vizinhos.
+
+290
+00:13:31,654 --> 00:13:33,120
+Sim, Sheldon.
+
+291
+00:13:33,131 --> 00:13:36,224
+Como amamos nossos vizinhos
+quando nossas mães se odeiam?
+
+292
+00:13:36,234 --> 00:13:38,460
+- Quem sua mãe odeia?
+- Sua mãe.
+
+293
+00:13:38,470 --> 00:13:41,273
+Minha mãe odeia a sua.
+Que mundo pequeno.
+
+294
+00:13:41,283 --> 00:13:43,098
+Certo, esperem um pouquinho.
+
+295
+00:13:43,108 --> 00:13:44,766
+Minha mãe também odeia
+sua avó.
+
+296
+00:13:44,776 --> 00:13:46,473
+Porque ela perdeu a briga.
+
+297
+00:13:46,483 --> 00:13:48,906
+Não, ela ganhou.
+Ela que disse.
+
+298
+00:13:48,916 --> 00:13:51,047
+Certo, parem, vamos parar.
+
+299
+00:13:51,369 --> 00:13:53,279
+Isso pode parecer
+difícil de entender,
+
+300
+00:13:53,289 --> 00:13:55,366
+mas viver uma vida amada,
+vida cristã
+
+301
+00:13:55,376 --> 00:13:57,724
+nem sempre
+é o caminho mais fácil.
+
+302
+00:13:59,157 --> 00:14:00,587
+Sim, Billy.
+
+303
+00:14:00,597 --> 00:14:03,021
+Minha nãe não é muito
+sua fã também.
+
+304
+00:14:05,303 --> 00:14:07,554
+Só amem o próximo,
+está bem?
+
+305
+00:14:09,015 --> 00:14:11,318
+Estou mais que disposto
+a deixar passar
+
+306
+00:14:11,328 --> 00:14:13,717
+quando meus paroquianos
+não se dão bem.
+
+307
+00:14:13,727 --> 00:14:17,291
+Acontece. Mas quando se torna
+um problema para as crianças,
+
+308
+00:14:17,301 --> 00:14:19,223
+eu preciso intervir.
+
+309
+00:14:19,834 --> 00:14:21,299
+Não tem nenhum problema,
+
+310
+00:14:21,309 --> 00:14:23,409
+além delas achando
+que são melhores que eu.
+
+311
+00:14:23,419 --> 00:14:24,905
+Eu não acho, eu sei.
+
+312
+00:14:24,915 --> 00:14:27,565
+Eu dei uma surra na sua mãe.
+Posso te quebrar também.
+
+313
+00:14:27,575 --> 00:14:30,438
+Você fala demais para alguém
+que está ficando careca.
+
+314
+00:14:30,448 --> 00:14:33,289
+Moças! Preciso lembrá-las
+que somos Cristãos?
+
+315
+00:14:33,642 --> 00:14:36,472
+Em nosso comportamento,
+em nossas ações,
+
+316
+00:14:36,482 --> 00:14:39,045
+devemos sempre
+nos perguntar:
+
+317
+00:14:39,055 --> 00:14:40,955
+"O que Jesus faria?"
+
+318
+00:14:40,965 --> 00:14:43,631
+- Posso falar uma coisa?
+- Jesus falaria isso?
+
+319
+00:14:44,154 --> 00:14:45,554
+Esquece.
+
+320
+00:14:47,765 --> 00:14:52,284
+<i>Em minha vida, muitas vezes
+eu fui chamado de covarde,</i>
+
+321
+00:14:52,771 --> 00:14:56,128
+<i>e na maioria delas,
+era verdade.</i>
+
+322
+00:14:57,668 --> 00:15:01,915
+<i>Mas houveram vezes
+em que demonstrei muita coragem.</i>
+
+323
+00:15:02,785 --> 00:15:04,343
+<i>Esta foi uma delas.</i>
+
+324
+00:15:04,885 --> 00:15:06,520
+Olá, Bucky.
+
+325
+00:15:08,399 --> 00:15:11,456
+Você é um bom menino?
+
+326
+00:15:14,297 --> 00:15:16,381
+Por favor,
+seja um bom menino.
+
+327
+00:15:18,014 --> 00:15:19,315
+Por favor.
+
+328
+00:15:19,325 --> 00:15:22,380
+Geralmente,
+quando não gostamos de alguém,
+
+329
+00:15:22,390 --> 00:15:26,312
+é porque vemos algo neles
+que não gostamos em nós.
+
+330
+00:15:26,723 --> 00:15:30,035
+- O que quer dizer?
+- Sério que você não entendeu?
+
+331
+00:15:30,430 --> 00:15:31,830
+Eu estou dizendo
+
+332
+00:15:32,423 --> 00:15:34,501
+que vocês têm mais em comum
+do que pensam.
+
+333
+00:15:34,511 --> 00:15:36,955
+Não diga que ambas têm
+crianças "especiais".
+
+334
+00:15:36,965 --> 00:15:39,553
+Ela não gosta disso.
+
+335
+00:15:41,873 --> 00:15:43,273
+Certo.
+
+336
+00:15:44,279 --> 00:15:45,679
+Lá vamos nós.
+
+337
+00:15:46,347 --> 00:15:49,727
+Acariciando o cachorro.
+
+338
+00:16:06,126 --> 00:16:07,647
+Estou conseguindo.
+
+339
+00:16:08,446 --> 00:16:10,227
+Estou fazendo carinho nele.
+
+340
+00:16:11,101 --> 00:16:13,076
+Venci o meu medo.
+
+341
+00:16:14,274 --> 00:16:17,293
+Você é um bom menino.
+Você é sim.
+
+342
+00:16:19,792 --> 00:16:22,652
+Desculpe pelas coisas ruins
+que disse a você.
+
+343
+00:16:24,367 --> 00:16:25,880
+Eu também.
+
+344
+00:16:27,485 --> 00:16:30,349
+- Connie?
+- O que foi?
+
+345
+00:16:30,359 --> 00:16:32,188
+Tem alguma coisa a dizer?
+
+346
+00:16:33,891 --> 00:16:36,297
+- Nada em particular.
+- Mãe.
+
+347
+00:16:36,897 --> 00:16:38,328
+Tá.
+
+348
+00:16:39,877 --> 00:16:41,820
+Desculpe pelas coisas
+que eu disse,
+
+349
+00:16:41,830 --> 00:16:45,908
+e pelo que aconteceu
+no boliche.
+
+350
+00:16:47,281 --> 00:16:49,035
+Digo o mesmo.
+
+351
+00:16:51,335 --> 00:16:52,778
+Toma.
+
+352
+00:16:52,788 --> 00:16:54,639
+Acho que isso saiu
+da sua cabeça.
+
+353
+00:16:58,487 --> 00:17:00,777
+Ele me lambeu!
+Ele me lambeu!
+
+354
+00:17:00,787 --> 00:17:02,450
+O cachorro lambeu
+minha língua!
+
+355
+00:17:02,460 --> 00:17:04,286
+Ainda dá pra sentir o gosto!
+
+356
+00:17:04,296 --> 00:17:06,575
+Chamem a emergência!
+
+357
+00:17:08,735 --> 00:17:10,944
+Acho que Jesus iria ver
+como ele está.
+
+358
+00:17:15,513 --> 00:17:17,489
+Como está aí, filho?
+
+359
+00:17:17,888 --> 00:17:20,890
+Bem, mas vamos precisar
+de mais Listerine.
+
+360
+00:17:24,141 --> 00:17:27,345
+Estou orgulhoso por ele tentar
+superar a fobia de cães.
+
+361
+00:17:27,355 --> 00:17:29,119
+Devia dizer isso a ele.
+
+362
+00:17:29,129 --> 00:17:31,539
+Se ele sair do banheiro,
+eu vou dizer.
+
+363
+00:17:31,549 --> 00:17:35,105
+Só não consigo entender porque
+o cão é tão ligado ao Sheldon.
+
+364
+00:17:35,115 --> 00:17:36,566
+Nem eu.
+
+365
+00:17:36,576 --> 00:17:39,206
+- O dono dele está preso?
+- Isso.
+
+366
+00:17:39,216 --> 00:17:41,369
+Que tipo de pessoa ele é?
+
+367
+00:18:05,548 --> 00:18:07,067
+É um mistério.
+
+368
+00:18:07,488 --> 00:18:09,438
+Acho que nunca saberemos.
+
+369
+00:18:15,407 --> 00:18:16,985
+Oi, Docinho.
+
+370
+00:18:17,661 --> 00:18:19,677
+Eu trouxe uma coisa
+para te ajudar
+
+371
+00:18:19,687 --> 00:18:22,064
+a superar seu medo
+de animais.
+
+372
+00:18:22,074 --> 00:18:23,803
+Dardos tranquilizantes?
+
+373
+00:18:24,227 --> 00:18:25,893
+Um peixe de estimação.
+
+374
+00:18:27,158 --> 00:18:30,159
+A BREVE HISTÓRIA
+DE "PEIXE COOPER"
+
+375
+00:18:30,651 --> 00:18:31,952
+Por quê?
+
+376
+00:18:31,962 --> 00:18:35,154
+Achei que podia começar devagar
+e ir evoluindo aos poucos.
+
+377
+00:18:35,817 --> 00:18:37,840
+Olhe, ele é bonitinho.
+
+378
+00:18:38,257 --> 00:18:40,857
+Ele nem liga que eu estou aqui.
+
+379
+00:18:41,397 --> 00:18:42,856
+Gostei dele.
+
+380
+00:18:43,827 --> 00:18:45,423
+Que nome vai dar a ele?
+
+381
+00:18:45,433 --> 00:18:46,829
+Peixe.
+
+382
+00:18:46,839 --> 00:18:50,004
+- Peixe?
+- Não estou pronto para apegar.
+
+383
+00:18:51,846 --> 00:18:53,443
+O Peixe é meio chato.
+
+384
+00:18:53,453 --> 00:18:55,355
+Eu sei, não é demais?
+
+385
+00:18:55,365 --> 00:18:57,149
+Nem dá para fazer carinho.
+
+386
+00:18:57,876 --> 00:18:59,564
+Talvez dê.
+
+387
+00:19:01,372 --> 00:19:02,769
+O que foi, filho?
+
+388
+00:19:02,779 --> 00:19:06,663
+Tentei fazer carinho no Peixe!
+Ele é tão pegajoso!
+
+389
+00:19:06,673 --> 00:19:08,804
+É porque ele é um peixe.
+
+390
+00:19:08,814 --> 00:19:10,992
+Coloquei meu dedo
+em cima do aquário,
+
+391
+00:19:11,002 --> 00:19:13,366
+toquei nele,
+e ele me mordeu!
+
+392
+00:19:13,376 --> 00:19:16,329
+- Ele não te mordeu.
+- Não consigo respirar.
+
+393
+00:19:16,339 --> 00:19:19,563
+O sangue dele está
+se misturando com o meu.
+
+394
+00:19:20,328 --> 00:19:22,581
+Talvez ele estava tentando
+te dar um beijinho.
+
+395
+00:19:22,591 --> 00:19:25,214
+Não. Ele me odeia.
+Nunca mais quero vê-lo.
+
+396
+00:19:25,224 --> 00:19:27,180
+Que bobagem, Sheldon.
+
+397
+00:19:27,190 --> 00:19:28,918
+Peixes como esse
+não mordem.
+
+398
+00:19:29,839 --> 00:19:31,147
+Olha só.
+
+399
+00:19:31,157 --> 00:19:32,459
+Viu?
+Ele é inofensivo.
+
+400
+00:19:32,469 --> 00:19:34,392
+Filho da mãe!
+
+401
+00:19:34,402 --> 00:19:36,878
+- O papai matou meu peixe!
+- George!
+
+402
+00:19:36,888 --> 00:19:38,486
+Ele vai ficar bem.
+
+403
+00:19:39,198 --> 00:19:41,263
+Vou colocá-lo
+de volta no aquário.
+
+404
+00:19:43,454 --> 00:19:45,401
+George...
+
+405
+00:19:51,496 --> 00:19:55,470
+FIM
+
+406
+00:19:55,480 --> 00:19:58,171
+<b>tec.subs@gmail.com
+facebook.com/TecSubs</b>
+
+407
+00:19:58,181 --> 00:20:00,881
+<b>equipeli4rs@live.com
+facebook.com/Li4rs</b>
+
